@@ -1,4 +1,4 @@
-def using_concat(array1, array2)
+def using_concat(array, array)
 array2.concat
 end
 
